@@ -1,2 +1,2 @@
 # CoroNet
-CoroNet is a Covid-19 detection and diagnosis tool. It scans xhest x-rays and clasifies it into normal, pneumonia or covid classes
+CoroNet is a Deep Convolutional Neural Network model to automatically detect Covid-19 infection from chest X-ray images. The deep model called CoroNet has been trained and tested on a dataset prepared by collecting Covid-19 and other chest pneumonia X-ray images from two different publically available databases. The preliminary results show that CoroNet achieved an overall accuracy of 89.5%, and more importantly the precision and recall rate for Covid-19 cases are 97% and 100%. The preliminary results of this study look promising which can be further improved as more training data becomes available. 
